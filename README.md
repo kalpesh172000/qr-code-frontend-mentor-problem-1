@@ -23,8 +23,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/kalpesh172000/qr-code-frontend-mentor-problem-1)
+- Live Site URL: [Add live site URL here](https://kalpesh172000.github.io/qr-code-frontend-mentor-problem-1/)
 
 ## My process
 
