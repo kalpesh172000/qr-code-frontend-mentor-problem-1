@@ -35,14 +35,14 @@ body {
     margin: 0 auto;
     padding: 1.6rem;
     gap: 2rem;
-    border-radius: 1rem;
+    border-radius: 2rem;
     text-align: center;
 }
 
 img {
     max-width: 300px;
     width: 100%;
-    border-radius: 0.8rem;
+    border-radius: 1.2rem;
 }
 
 h1 {
